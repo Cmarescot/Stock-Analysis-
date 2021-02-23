@@ -16,7 +16,7 @@ Overall stocks in 2017 did better than stocks in 2018.
 ### Original Script vs Refactored Script execution times  
 The Refactored Script's execution time far exceeded that of the original script for both years (2017 & 2018)
 - The Original Script had an execution time of roughly 4 seconds and the Refracturned Stript had an execution of about 0.7 seconds 
-![VBA_Challenge_2017.png](https://github.com/Cmarescot/Stock-Analysis-/blob/644c6580ccc500cb96486b9566489daf6c92358e/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png](https://github.com/Cmarescot/Stock-Analysis-/blob/644c6580ccc500cb96486b9566489daf6c92358e/Resources/VBA_Challenge_2017.png) ![VBA_Challenge_2018.png](https://github.com/Cmarescot/Stock-Analysis-/blob/644c6580ccc500cb96486b9566489daf6c92358e/Resources/VBA_Challenge_2018.png)
 ---
 ## Summary 
 ### Advantages of Refactoring code
