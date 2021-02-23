@@ -1,8 +1,8 @@
-# Stock Analysis Code Refactor and Peformance Measures
+# Code Refactor for Stock Analysis  and Peformance Measures
 ---
 ## Project Overview
 ### Purporse of Analysis
-Our client Steve, wants to expand the stock dataset in order to include the entire stock market over the last few years. In order to makes sure that our code is effecient to handle this amount of data we decided to refactor our script in order to collect the same information more efficiently by:
+Our client Steve, wants to expand the stock dataset in order to include the entire stock market over the last few years. In order to makes sure that our code is effecient enough to handle this amount of data, we decided to refactor our script in order to collect the same information more efficiently by:
 - taking fewer steps 
 - using less memory
 - improving the logic of the code to make it easier for future users to read
