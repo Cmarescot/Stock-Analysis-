@@ -13,6 +13,9 @@ Overall stocks in 2017 did better than stocks in 2018.
 - 11 Stocks had a positive return in 2017 with 4 (DQ, ENPH, FSLR, SEDG) having a return over 100%
 - 12 Stocks had a negative return in 2018 with DQ havng the lowest return of 62%
 --- 
+### Code
+In the new code, we simplified things by creating a nested for loop that looped through the data one time and retured the information we need. 
+![NestedForLoop.png](https://github.com/Cmarescot/Stock-Analysis-/blob/6ed889c02271fe518a6685851a718753fd3b084d/Resources/NestedForLoop.png)
 ### Original Script vs Refactored Script execution times  
 The Refactored Script's execution time far exceeded that of the original script for both years (2017 & 2018)
 - The Original Script had an execution time of roughly 4 seconds and the Refracturned Stript had an execution of about 0.7 seconds 
